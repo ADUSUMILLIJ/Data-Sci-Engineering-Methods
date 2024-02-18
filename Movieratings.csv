@@ -1,0 +1,101 @@
+Title,title_year,budget,Gross,actor_1_name,actor_2_name,actor_3_name,IMDb_rating,genre_1,genre_2,genre_3,MetaCritic,Runtime,content_rating,Country
+La La Land,2016,30000000,151101803,Ryan Gosling,Emma Stone,Amie Conn,8.2,Comedy,Drama,Music,93,128,PG-13,USA
+Zootopia,2016,150000000,341268248,Ginnifer Goodwin,Jason Bateman,Idris Elba,8.1,Animation,Adventure,Comedy,78,108,PG,USA
+Lion,2016,12000000,51738905,Dev Patel,Nicole Kidman,Rooney Mara,8.1,Biography,Drama,Suspense,69,118,PG-13,Australia
+Arrival,2016,47000000,100546139,Amy Adams,Jeremy Renner,Forest Whitaker,8,Drama,Mystery,Sci-Fi,81,116,PG-13,USA
+Manchester by the Sea,2016,9000000,47695371,Casey Affleck,Michelle Williams ,Kyle Chandler,7.9,Drama,Drama,Suspense,96,137,R,USA
+Hell or High Water,2016,12000000,27007844,Chris Pine,Jeff Bridges,Ben Foster,7.7,Crime,Drama,Thriller,88,102,R,USA
+Doctor Strange,2016,165000000,232641920,Benedict Cumberbatch,Chiwetel Ejiofor,Rachel McAdams,7.6,Action,Adventure,Fantasy,72,115,PG-13,USA
+Tangled,2010,260000000,200807262,Brad Garrett,Donna Murphy,M.C. Gainey,7.8,Animation,Adventure,Comedy,71,124,PG,USA
+The Dark Knight Rises,2012,250000000,448130642,Tom Hardy,Christian Bale,Joseph Gordon-Levitt,8.4,Action,Thriller,Suspense,78,164,PG-13,USA
+Captain America: Civil War,2016,250000000,407197282,Robert Downey Jr.,Scarlett Johansson,Chris Evans,7.9,Action,Adventure,Sci-Fi,75,147,PG-13,USA
+The Hobbit: The Desolation of Smaug,2013,225000000,258355354,Aidan Turner,Adam Brown,James Nesbitt,7.9,Adventure,Fantasy,Suspense,66,161,PG-13,USA
+The Avengers,2012,220000000,623279547,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson,8.1,Action,Sci-Fi,Suspense,69,143,PG-13,USA
+Toy Story 3,2010,200000000,414984497,Tom Hanks,John Ratzenberger,Don Rickles,8.3,Animation,Adventure,Comedy,92,103,G,USA
+Skyfall,2012,200000000,304360277,Albert Finney,Helen McCrory,Rory Kinnear,7.8,Action,Adventure,Thriller,81,143,PG-13,UK
+X-Men: Days of Future Past,2014,200000000,233914986,Jennifer Lawrence,Peter Dinklage,Hugh Jackman,8,Action,Adventure,Sci-Fi,74,132,PG-13,USA
+Star Trek Into Darkness,2013,190000000,228756232,Benedict Cumberbatch,Bruce Greenwood,Noel Clarke,7.8,Action,Adventure,Sci-Fi,72,132,PG-13,USA
+The Hobbit: An Unexpected Journey,2012,180000000,303001229,Aidan Turner,Adam Brown,James Nesbitt,7.9,Adventure,Fantasy,Suspense,86,169,PG-13,USA
+Edge of Tomorrow,2014,178000000,100189501,Tom Cruise,Lara Pulver,Noah Taylor,7.9,Action,Adventure,Sci-Fi,71,113,PG-13,USA
+Inside Out,2015,175000000,356454367,Amy Poehler,Mindy Kaling,Phyllis Smith,8.2,Animation,Adventure,Comedy,94,95,PG,USA
+Guardians of the Galaxy,2014,170000000,333130696,Bradley Cooper,Vin Diesel,Djimon Hounsou,8.1,Action,Adventure,Sci-Fi,76,121,PG-13,USA
+Captain America: The Winter Soldier,2014,170000000,259746958,Scarlett Johansson,Chris Evans,Hayley Atwell,7.8,Action,Adventure,Sci-Fi,70,136,PG-13,USA
+Dawn of the Planet of the Apes,2014,170000000,208543795,Gary Oldman,Judy Greer,Kodi Smit-McPhee,7.6,Action,Adventure,Drama,79,130,PG-13,USA
+Hugo,2011,170000000,73820094,ChloÃ« Grace Moretz,Christopher Lee,Ray Winstone,7.5,Adventure,Drama,Family,83,126,PG,USA
+Big Hero 6,2014,165000000,222487711,Damon Wayans Jr.,Daniel Henney,Abraham Benrubi,7.8,Animation,Action,Adventure,74,124,PG,USA
+How to Train Your Dragon,2010,165000000,217387997,Gerard Butler,America Ferrera,Craig Ferguson,8.1,Animation,Action,Adventure,74,124,PG,USA
+Wreck-It Ralph,2012,165000000,189412677,Jack McBrayer,Sarah Silverman,Joe Lo Truglio,7.7,Animation,Adventure,Comedy,72,124,PG,USA
+Interstellar,2014,165000000,187991439,Matthew McConaughey,Anne Hathaway,Mackenzie Foy,8.6,Adventure,Drama,Sci-Fi,74,169,PG-13,USA
+Inception,2010,160000000,292568851,Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt,8.8,Action,Adventure,Sci-Fi,74,148,PG-13,USA
+X-Men: First Class,2011,160000000,146405371,Jennifer Lawrence,Michael Fassbender,Oliver Platt,7.8,Action,Adventure,Sci-Fi,65,132,PG-13,USA
+Mad Max: Fury Road,2015,150000000,153629485,Tom Hardy,Charlize Theron,ZoÃ�  Kravitz,8.1,Action,Adventure,Sci-Fi,90,120,R,Australia
+How to Train Your Dragon 2,2014,145000000,176997107,Gerard Butler,Djimon Hounsou,America Ferrera,7.9,Animation,Action,Adventure,76,124,PG,USA
+The Revenant,2015,135000000,183635922,Leonardo DiCaprio,Tom Hardy,Lukas Haas,8,Adventure,Drama,Thriller,76,156,R,USA
+The Hunger Games: Catching Fire,2013,130000000,424645577,Jennifer Lawrence,Josh Hutcherson,Sandra Ellis Lafferty,7.6,Action,Adventure,Mystery,76,146,PG-13,USA
+The Martian,2015,108000000,228430993,Matt Damon,Donald Glover,Benedict Wong,8,Adventure,Drama,Sci-Fi,80,144,PG-13,USA
+Gravity,2013,100000000,274084951,Phaldut Sharma,Basher Savage,Amy Warren,7.8,Drama,Sci-Fi,Thriller,96,91,PG-13,UK
+Django Unchained,2012,100000000,162804648,Leonardo DiCaprio,Christoph Waltz,Ato Essandoh,8.4,Drama,Western,Suspense,81,165,R,USA
+The Wolf of Wall Street,2013,100000000,116866727,Leonardo DiCaprio,Matthew McConaughey,Jon Favreau,8.2,Biography,Comedy,Crime,75,180,R,USA
+Rise of the Planet of the Apes,2011,93000000,176740650,James Franco,David Oyelowo,Tyler Labine,7.6,Action,Drama,Sci-Fi,68,124,PG-13,USA
+The Girl with the Dragon Tattoo,2011,90000000,102515793,Robin Wright,Goran Visnjic,Joely Richardson,7.8,Crime,Drama,Mystery,71,158,R,USA
+The Little Prince,2015,81200000,1339152,Jeff Bridges,James Franco,Mackenzie Foy,7.8,Animation,Adventure,Drama,70,108,PG,France
+Shutter Island,2010,80000000,127968405,Leonardo DiCaprio,Joseph Sikora,Nellie Sciutto,8.1,Mystery,Thriller,Suspense,63,138,R,USA
+Despicable Me,2010,69000000,251501645,Steve Carell,Miranda Cosgrove,Jack McBrayer,7.7,Animation,Adventure,Comedy,72,124,PG,USA
+Fury,2014,68000000,85707116,Brad Pitt,Logan Lerman,Jim Parrack,7.6,Action,Drama,War,64,134,R,USA
+Gone Girl,2014,61000000,167735396,Patrick Fugit,Sela Ward,Emily Ratajkowski,8.1,Crime,Drama,Mystery,79,149,R,USA
+Les MisÃ©rables,2012,61000000,148775460,Hugh Jackman,Eddie Redmayne,Anne Hathaway,7.6,Drama,Musical,Romance,63,158,PG-13,USA
+The Lego Movie,2014,60000000,257756197,Morgan Freeman,Will Ferrell,Alison Brie,7.8,Animation,Action,Adventure,83,100,PG,Australia
+Scott Pilgrim vs. the World,2010,60000000,31494270,Anna Kendrick,Kieran Culkin,Ellen Wong,7.5,Action,Comedy,Romance,69,112,PG-13,USA
+Deadpool,2016,58000000,363024263,Ryan Reynolds,Ed Skrein,Stefan Kapicic,8,Action,Adventure,Comedy,65,108,R,USA
+Captain Phillips,2013,55000000,107100855,Tom Hanks,Chris Mulkey,Michael Chernus,7.8,Biography,Drama,Thriller,83,134,PG-13,USA
+Moneyball,2011,50000000,75605492,Philip Seymour Hoffman,Robin Wright,Brad Pitt,7.6,Biography,Drama,Sport,87,133,PG-13,USA
+Prisoners,2013,46000000,60962878,Hugh Jackman,Jake Gyllenhaal,Dylan Minnette,8.1,Crime,Drama,Mystery,74,153,R,USA
+Argo,2012,44500000,136019448,Clea DuVall,Scoot McNairy,Tate Donovan,7.7,Action,Biography,Drama,86,120,R,USA
+Lone Survivor,2013,40000000,125069696,Jerry Ferrara,Scott Elrod,Dan Bilzerian,7.5,Action,Biography,Drama,86,121,R,USA
+The Social Network,2010,40000000,96917897,Andrew Garfield,Dustin Fitzsimons,Marcella Lentz-Pope,7.7,Biography,Drama,Suspense,95,120,PG-13,USA
+Bridge of Spies,2015,40000000,72306065,Tom Hanks,Mark Rylance,Amy Ryan,7.6,Drama,History,Thriller,81,142,PG-13,USA
+True Grit,2010,38000000,171031347,Matt Damon,Jeff Bridges,Bruce Green,7.6,Adventure,Drama,Western,80,110,PG-13,USA
+Rush,2013,38000000,26903709,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara,8.1,Action,Biography,Drama,75,123,R,UK
+The Town,2010,37000000,92173235,Jeremy Renner,Jon Hamm,Owen Burke,7.6,Crime,Drama,Thriller,74,125,R,USA
+Creed,2015,35000000,109712885,Sylvester Stallone,Phylicia Rashad,Graham McTavish,7.6,Drama,Sport,Suspense,82,133,PG-13,USA
+Kick-Ass,2010,30000000,48043505,Elizabeth McGovern,Deborah Twiss,Michael Rispoli,7.7,Action,Comedy,Suspense,66,117,R,UK
+Sicario,2015,30000000,46875468,Edgar Arreola,Bernardo Saracino,Daniel Kaluuya,7.6,Action,Crime,Drama,82,121,R,USA
+Straight Outta Compton,2015,28000000,161029270,Aldis Hodge,Neil Brown Jr.,R. Marcos Taylor,7.9,Biography,Drama,History,72,147,R,USA
+The Big Short,2015,28000000,70235322,Ryan Gosling,Christian Bale,Charlie Talbert,7.8,Biography,Comedy,Drama,81,130,R,USA
+The Help,2011,25000000,169705587,Emma Stone,Bryce Dallas Howard,Mike Vogel,8.1,Drama,Drama,Suspense,62,146,PG-13,USA
+The Fighter,2010,25000000,93571803,Christian Bale,Jack McGee,Melissa McMeekin,7.8,Action,Biography,Drama,79,116,R,USA
+The Grand Budapest Hotel,2014,25000000,59073773,Bill Murray,Tom Wilkinson,F. Murray Abraham,8.1,Adventure,Comedy,Drama,88,99,R,USA
+Warrior,2011,25000000,13651662,Tom Hardy,Frank Grillo,Kevin Dunn,8.2,Action,Drama,Sport,71,140,PG-13,USA
+Her,2013,23000000,25556065,Scarlett Johansson,Brian Johnson,Matt Letscher,8,Drama,Romance,Sci-Fi,90,126,R,USA
+Silver Linings Playbook,2012,21000000,132088910,Jennifer Lawrence,Robert De Niro,Bradley Cooper,7.8,Comedy,Drama,Romance,81,122,R,USA
+12 Years a Slave,2013,20000000,56667870,QuvenzhanÃ© Wallis,Scoot McNairy,Taran Killam,8.1,Biography,Drama,History,96,134,R,USA
+Spotlight,2015,20000000,44988180,Billy Crudup,Jamey Sheridan,Brian d'Arcy James,8.1,Crime,Drama,History,93,128,R,USA
+The Book Thief,2013,19000000,21483154,Emily Watson,Sophie NÃ©lisse,Roger Allam,7.6,Drama,War,Suspense,86,131,PG-13,USA
+Birdman or (The Unexpected Virtue of Ignorance),2014,18000000,42335698,Emma Stone,Naomi Watts,Merritt Wever,7.8,Comedy,Drama,Suspense,88,119,R,USA
+127 Hours,2010,18000000,18329466,James Franco,Treat Williams,Kate Burton,7.6,Adventure,Biography,Drama,82,94,R,USA
+Midnight in Paris,2011,17000000,56816662,Kurt Fuller,Audrey Fleurot,Nina Arianda,7.7,Comedy,Fantasy,Romance,81,124,PG-13,Spain
+Moonrise Kingdom,2012,16000000,45507053,Bruce Willis,Bill Murray,Bob Balaban,7.8,Adventure,Comedy,Drama,84,94,PG-13,USA
+The King's Speech,2010,15000000,138795342,Colin Firth,Jennifer Ehle,Derek Jacobi,8,Biography,Drama,Suspense,88,118,R,UK
+The Artist,2011,15000000,44667095,BÃ©rÃ©nice Bejo,Ed Lauter,Beth Grant,7.9,Comedy,Drama,Romance,89,100,PG-13,France
+The Theory of Everything,2014,15000000,35887263,Eddie Redmayne,Emily Watson,Simon McBurney,7.7,Biography,Drama,Romance,72,123,PG-13,UK
+Drive,2011,15000000,35054909,Ryan Gosling,Albert Brooks,Russ Tamblyn,7.8,Crime,Drama,Suspense,78,100,R,USA
+Ex Machina,2014,15000000,25440971,Elina Alminas,Sonoya Mizuno,Corey Johnson,7.7,Drama,Mystery,Sci-Fi,78,108,R,UK
+The Imitation Game,2014,14000000,91121452,Benedict Cumberbatch,Rory Kinnear,Allen Leech,8.1,Biography,Drama,Thriller,73,114,PG-13,UK
+Flipped,2010,14000000,1752214,Madeline Carroll,Rebecca De Mornay,Aidan Quinn,7.7,Comedy,Drama,Romance,86,124,PG,USA
+Black Swan,2010,13000000,106952327,Natalie Portman,Mila Kunis,Mark Margolis,8,Drama,Thriller,Suspense,79,108,R,USA
+The Perks of Being a Wallflower,2012,13000000,17738570,Logan Lerman,Ezra Miller,Kate Walsh,8,Drama,Romance,Suspense,67,102,PG-13,USA
+The Fault in Our Stars,2014,12000000,124868837,Shailene Woodley,Sam Trammell,Nat Wolff,7.8,Drama,Romance,Suspense,69,126,PG-13,USA
+Philomena,2013,12000000,37707719,Steve Coogan,Mare Winningham,Peter Hermann,7.6,Biography,Drama,Suspense,77,98,PG-13,UK
+Nebraska,2013,12000000,17613460,Devin Ratray,Bruce Dern,Will Forte,7.7,Adventure,Comedy,Drama,86,115,R,USA
+About Time,2013,12000000,15294553,Tom Hughes,Tom Hollander,Lindsay Duncan,7.8,Comedy,Drama,Fantasy,86,123,R,UK
+Amour,2012,8900000,225377,Isabelle Huppert,Emmanuelle Riva,Jean-Louis Trintignant,7.9,Drama,Romance,Suspense,94,127,PG-13,France
+Nightcrawler,2014,8500000,32279955,Jake Gyllenhaal,Michael Papajohn,James Huang,7.9,Crime,Drama,Thriller,76,118,R,USA
+50/50,2011,8000000,34963967,Joseph Gordon-Levitt,Anna Kendrick,Bryce Dallas Howard,7.7,Comedy,Drama,Romance,72,100,R,USA
+End of Watch,2012,7000000,40983001,Jake Gyllenhaal,Anna Kendrick,America Ferrera,7.7,Crime,Drama,Thriller,68,109,R,USA
+Dallas Buyers Club,2013,5000000,27296514,Matthew McConaughey,Jennifer Garner,Denis O'Hare,8,Biography,Drama,Suspense,84,117,R,USA
+Boyhood,2014,4000000,25359200,Ellar Coltrane,Lorelei Linklater,Libby Villari,7.9,Drama,Music,Suspense,100,165,R,USA
+Whiplash,2014,3300000,13092000,J.K. Simmons,Melissa Benoist,Chris Mulkey,8.5,Drama,Music,Suspense,88,107,R,USA
+Before Midnight,2013,3000000,8114507,Seamus Davey-Fitzpatrick,Ariane Labed,Athina Rachel Tsangari,7.9,Drama,Romance,Suspense,94,109,R,USA
+Star Wars: Episode VII - The Force Awakens,2015,245000000,936662225,Doug Walker,Rob Walker,Stonis,8.1,Action,Adventure,Fantasy,81,136,PG-13,USA
+Harry Potter and the Deathly Hallows: Part I,2010,150000000,296347721,Rupert Grint,Toby Jones,Alfred Enoch,7.7,Adventure,Family,Fantasy,65,146,PG-13,UK
+Tucker and Dale vs Evil,2010,5000000,223838,Katrina Bowden,Tyler Labine,Chelan Simmons,7.6,Comedy,Horror,Suspense,65,124,R,Canada
